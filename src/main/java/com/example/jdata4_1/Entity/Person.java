@@ -28,7 +28,7 @@ public class Person {
     @Column(unique = true)
     private long phone_number;
 
-    private String city_of_living;
+    private String city;
 
 
 }
